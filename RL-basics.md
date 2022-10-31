@@ -16,6 +16,14 @@
 * PER: [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), Schaul et al, 2016, ICLR.
 * Rainbow DQN: [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11796), Hessel et al, 2018, AAAI.
 
+### Maximum Entropy RL
+
+
+
+### Distributed RL
+
+
+
 ### Offline RL
 
 * REM: [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543), Rishabh Agarwal et al 2016.
