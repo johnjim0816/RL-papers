@@ -24,12 +24,14 @@
 ### Policy gradient and related
 
 * A3C:[Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf), Mnig et al, 2016, ICML.
+* GA3C:[Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://arxiv.org/pdf/1611.06256.pdf), M. Babaeizadeh et al 2016, ICLR.
 * TRPO:[Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf), J. Schulman et al 2015, ICML.
-* GAE:[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf), J. Schulman et al 2015, ICLR.
-* PPO:[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), J. Schulman et al 2017.
-* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf), N. Heess et al 2017.
-* ACKTR:[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://proceedings.neurips.cc/paper/2017/file/361440528766bbaaaa1901845cf4152b-Paper.pdf), Y Wu et al 2017, NIPS.
 * ACER:[Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/pdf/1611.01224.pdf), Z Wang et al 2016, ICLR.
+* ACKTR:[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://proceedings.neurips.cc/paper/2017/file/361440528766bbaaaa1901845cf4152b-Paper.pdf), Y Wu et al 2017, NIPS.
+* PPO:[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), J. Schulman et al 2017.
+* PPG:[Phasic Policy Gradient](http://proceedings.mlr.press/v139/cobbe21a/cobbe21a.pdf), KW Cobbe et al 2021, ICML.
+* GAE:[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf), J. Schulman et al 2015, ICLR.
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf), N. Heess et al 2017.
 * DPG:[Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), D Silver et al 2014, ICML.
 * DDPG:[Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf), TP Lillicrap et al 2016, ICLR.
 * TD3:[Addressing Function Approximation Error in Actor-Critic Methods](http://proceedings.mlr.press/v80/fujimoto18a/fujimoto18a.pdf), S Fujimoto et al 2018, ICML.
@@ -45,7 +47,6 @@
 * [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/pdf/1704.06440.pdf), J Schulman et al 2017.
 * IQN:[Implicit Quantile Networks for Distributional Reinforcement Learning](http://proceedings.mlr.press/v80/dabney18a/dabney18a.pdf), W Dabney et al 2018, ICML.
 * [Dopamine: A Research Framework for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.06110.pdf), PS Castro et al 2018.
-* GA3C:[Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://arxiv.org/pdf/1611.06256.pdf), M. Babaeizadeh et al 2016, ICLR.
 
 ### Exploration and related
 
