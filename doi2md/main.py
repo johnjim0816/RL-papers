@@ -38,12 +38,12 @@ with open('doi.txt') as doi_f:
         first_author = entry['author'].split(',')[0]
         url = entry['url']
         if short_name != '' and proceed != '':
-            md_file.new_paragraph(f"* **{short_name}**: [{title}]({url}), {first_author} et al {year}, {proceed}.")
+            md_file.write(f"* **{short_name}**: [{title}]({url}), {first_author} et al {year}, {proceed}.\n")
         elif short_name != '':
-            md_file.new_paragraph(f"* **{short_name}**: [{title}]({url}), {first_author} et al {year}.")
+            md_file.write(f"* **{short_name}**: [{title}]({url}), {first_author} et al {year}.\n")
         elif proceed != '':
-            md_file.new_paragraph(f"* [{title}]({url}), {first_author} et al {year}, {proceed}.")
+            md_file.write(f"* [{title}]({url}), {first_author} et al {year}, {proceed}.\n")
         else:
-            md_file.new_paragraph(f"* [{title}]({url}), {first_author} et al {year}.")
-        # md_file.new_paragraph()
+            md_file.write(f"* [{title}]({url}), {first_author} et al {year}.\n")
+        # md_file.write()
 md_file.create_md_file()
