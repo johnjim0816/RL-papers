@@ -47,7 +47,6 @@
 * [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/pdf/1704.06440.pdf), J Schulman et al 2017.
 * IQN:[Implicit Quantile Networks for Distributional Reinforcement Learning](http://proceedings.mlr.press/v80/dabney18a/dabney18a.pdf), W Dabney et al 2018, ICML.
 * [Dopamine: A Research Framework for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.06110.pdf), PS Castro et al 2018.
-* GA3C:[Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://arxiv.org/pdf/1611.06256.pdf), M. Babaeizadeh et al 2016, ICLR.
 
 ### Exploration and related
 
