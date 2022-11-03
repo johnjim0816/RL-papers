@@ -24,7 +24,6 @@
 ### Policy gradient and related
 
 * REINFORCE: [Policy Gradient  Methods for  Reinforcement  Learning with Function  Approximation](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf), Sutton et al, 1999, NIPS
-
 * A3C: [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf), Mnig et al, 2016, ICML.
 * TRPO: [Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf), J. Schulman et al 2015, ICML.
 * GAE: [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf), J. Schulman et al 2015, ICLR.
