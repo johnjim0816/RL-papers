@@ -2,7 +2,7 @@
 
 [RL-basics](./RL-basics.md)
 
-[MARL-Related]()
+[MARL-basics]()
 
 [RL4RS]()
 
