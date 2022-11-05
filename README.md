@@ -22,6 +22,11 @@
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
       </td>
+      <td>
+         <a href="https://github.com/ai4drug"><img width="70" height="70" src="https://github.com/ai4drug.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/ai4drug">Yi Zhang</a>
+         <p> RL4Science <br> SCUT </p>
+      </td>
     </tr>
   </tbody>
 </table>
