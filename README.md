@@ -32,6 +32,11 @@
          <a href="https://github.com/cr-bh">Ariel Chen</a>
          <p> MARL-basics <br> THU </p>
       </td>
+      <td>
+         <a href="https://github.com/shikejianalan"><img width="70" height="70" src="https://github.com/shikejianalan.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/shikejianalan">Kejian Shi</a>
+         <p> RL&Robotics <br> IC </p>
+      </td>
     </tr>
   </tbody>
 </table>
