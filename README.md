@@ -12,6 +12,8 @@
 
 [RL4DrugDiscovery](./RL4DrugDiscovery.md): Drug discovery is a challenging multi-objective optimization problem where multiple pharmaceutical objectives need to be satisfied. Recently, utilizing reinforcement learning to generate molecules with desired physicochemical properties such as solubility has been acknowledged as a promising strategy for drug design. 
 
+[RL4QD](./RL4QD.md)
+
 ## Contributors
 
 <table border="0">
@@ -36,6 +38,11 @@
          <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
+      </td>
+      <td>
+         <a href="https://github.com/curryliu30"><img width="70" height="70" src="https://github.com/curryliu30.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/curryliu30">Erlong Liu</a>
+         <p> QD&ERL <br> NJU </p>
       </td>
     </tr>
   </tbody>
