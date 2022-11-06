@@ -25,6 +25,11 @@
          <p> MARL-basics <br> THU </p>
       </td>
       <td>
+         <a href="https://github.com/curryliu30"><img width="70" height="70" src="https://github.com/curryliu30.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/curryliu30">Erlong Liu</a>
+         <p> QD&ERL <br> NJU </p>
+      </td>
+      <td>
          <a href="https://github.com/shikejianalan"><img width="70" height="70" src="https://github.com/shikejianalan.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/shikejianalan">Kejian Shi</a>
          <p> RL&Robotics <br> IC </p>
@@ -38,11 +43,6 @@
          <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
-      </td>
-      <td>
-         <a href="https://github.com/curryliu30"><img width="70" height="70" src="https://github.com/curryliu30.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/curryliu30">Erlong Liu</a>
-         <p> QD&ERL <br> NJU </p>
       </td>
     </tr>
   </tbody>
