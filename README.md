@@ -14,7 +14,7 @@
 
 [RL4QD](./RL4QD.md)
 
-[RL4Robot](./RL-Robot-related papers.md)
+[RL4Robot](./RL-Robot-related-papers.md) 
 
 ## Contributors
 
@@ -43,7 +43,7 @@
       </td>
       <td>
          <a href="https://github.com/L3Y1Q2"><img width="70" height="70" src="https://github.com/L3Y1Q2.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/shikejianalan">Yongqi Li</a>
+         <a href="https://github.com/L3Y1Q2">Yongqi Li</a>
          <p> RL4Robotics&MRS <br> SUSTech </p>
       </td>
       <td>
