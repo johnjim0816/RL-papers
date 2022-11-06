@@ -37,7 +37,6 @@
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
       </td>
-      
     </tr>
   </tbody>
 </table>
