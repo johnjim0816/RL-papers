@@ -27,6 +27,11 @@
          <p> MARL-basics <br> THU </p>
       </td>
       <td>
+         <a href="https://github.com/L3Y1Q2"><img width="70" height="70" src="https://github.com/L3Y1Q2.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/L3Y1Q2">Yongqi Li</a>
+         <p> RL4Robotics&MRS <br> SUSTech </p>
+      </td>
+      <td>
          <a href="https://github.com/curryliu30"><img width="70" height="70" src="https://github.com/curryliu30.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/curryliu30">Erlong Liu</a>
          <p> QD&ERL <br> NJU </p>
@@ -40,11 +45,6 @@
          <a href="https://github.com/ai4drug"><img width="70" height="70" src="https://github.com/ai4drug.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/ai4drug">Yi Zhang</a>
          <p> RL4Science <br> SCUT </p>
-      </td>
-      <td>
-         <a href="https://github.com/L3Y1Q2"><img width="70" height="70" src="https://github.com/L3Y1Q2.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/L3Y1Q2">Yongqi Li</a>
-         <p> RL4Robotics&MRS <br> SUSTech </p>
       </td>
       <td>
          <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
