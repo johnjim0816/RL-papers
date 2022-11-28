@@ -51,6 +51,11 @@
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
       </td>
+      <td>
+         <a href="https://github.com/clorisqiu1"><img width="70" height="70" src="https://github.com/clorisqiu1.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/clorisqiu1">Wen Qiu</a>
+         <p> DQN&PG&Exploration and Related <br> KIT </p>
+      </td>
     </tr>
   </tbody>
 </table>
