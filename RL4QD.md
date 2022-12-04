@@ -34,6 +34,10 @@
 
 ## QD-Evolution:
 
+- Efficient Exploration using Model-Based Quality-Diversity with Gradients[https://arxiv.org/pdf/2211.12610.pdf], Bryan Lim et al 2022, arxiv
+- [Computing High-Quality Solutions For The Patient Admission Scheduling Problems Using Evolutionary Diversity Optimization](https://arxiv.org/pdf/2207.14112.pdf), Adel Nikfarjam et al 2022, PPSN
+- T-DominO:[Exploring Multiple Criteria with Quality-Diversity and the Tournament Dominance Objective](https://arxiv.org/pdf/2207.01439), Adam Gaier et al 2022, PPSN
+
 - [Discovering evolutionary stepping stones through behavior domination](https://arxiv.org/pdf/1704.05554.pdf) , Elliot Meyerson 2017, Gecco
 - [The surprising creativity of digital evolution: A collection of anecdotes from the evolutionary computation and artificial life research communities](https://arxiv.org/abs/1803.03453) , Joel Lehman et al 2018
 - [Open-ended evolution with multi-containers QD](https://dl.acm.org/doi/abs/10.1145/3205651.3205705) , Stephane Doncieux et al 2018 , Gecco
